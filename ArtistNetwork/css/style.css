@@ -1,0 +1,42 @@
+body{
+	background-image: url("../images/bg.gif");
+}
+header{
+	width:90%;
+	text-align: center;
+}
+/* input{
+	width:40%;
+	margin:2%;
+} */
+form{
+	position: relative;
+	top: 50%;
+}
+#submit{
+	width: 20%;
+	left: 60px;
+	color:black;
+	position:relative;
+}
+#loginBlock{
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+}
+
+#backdrop{
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	background-color: #181818;
+	width:40%;
+	height:60%;
+	margin-top:10%;
+	padding:20px;
+	position:relative;
+	border-radius:20px;
+	color: #EEC900;
+}
+#MainContent{
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+}
